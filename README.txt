@@ -1,0 +1,1 @@
+ Kaalah game is a two player (computer vs. computer) game designed using Minmax-A-B and Alpha Beta Search algorithms to generate the best possible move. Object oriented programming is used for the reusability. 
